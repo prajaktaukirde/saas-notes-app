@@ -41,7 +41,7 @@ Develop and deploy a multi-tenant SaaS Notes Application hosted on Vercel. The a
   - Listing/creating/deleting notes.
   - Showing “Upgrade to Pro” when Free tenant reaches note limit.
 ---
-![alt image]("C:\Users\prajakta ukirde\Pictures\Screenshots\Screenshot 2025-09-13 210518.png")
+
 
 
 
