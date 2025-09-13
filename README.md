@@ -51,19 +51,8 @@ Develop and deploy a multi-tenant SaaS Notes Application hosted on Vercel. The a
 
 ---
 
-## Evaluation Method
-Automated test scripts will verify:
-- Health endpoint availability.
-- Successful login for all predefined accounts.
-- Enforcement of tenant isolation.
-- Role-based restrictions.
-- Enforcement of Free plan note limit and removal after upgrade.
-- Correct functioning of all CRUD endpoints.
-- Presence and accessibility of frontend.
 
-> You can update your submission later if submitting partially.
 
----
 
 ## Author
 **Prajakta Ukirde**  
